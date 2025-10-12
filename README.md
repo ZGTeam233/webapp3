@@ -8,10 +8,10 @@
 ARM64
 
 #### 使用说明 Instructions
-1.  下载 Release  Download the Release
-2.  更改其中的config和AndroidManifest.xml  Modify the config and AndroidManifest.xml
-3.  签名并安装  Sign and install
+1.  下载 Release Download the Release
+2.  更改其中的config和AndroidManifest.xml Modify the config and AndroidManifest.xml
+3.  签名并安装 Sign and install
 
 #### 参与贡献
 1.  其实不需要  Actually, not needed
-2.  不喜勿喷  Please don’t criticize if you dislike it
+2.  不喜勿喷 Please don’t criticize if you dislike it
